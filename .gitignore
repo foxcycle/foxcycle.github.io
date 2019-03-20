@@ -1,3 +1,7 @@
+# ignore the src directory from https://github.com/mfekadu/FantasticFive.git
+/src
+
+
 # Logs
 logs
 *.log
